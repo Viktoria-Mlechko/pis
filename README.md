@@ -1,4 +1,5 @@
 [![Board Status](https://dev.azure.com/ISTb-2017682220111/44c1373d-501d-4931-8d52-909e6042d1ec/ba58bf7a-d83b-482d-b586-586377d1a064/_apis/work/boardbadge/77a69635-b2d0-4e14-8d66-281e50bb39e0)](https://dev.azure.com/ISTb-2017682220111/44c1373d-501d-4931-8d52-909e6042d1ec/_boards/board/t/ba58bf7a-d83b-482d-b586-586377d1a064/Microsoft.RequirementCategory/)
+Markdown
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
